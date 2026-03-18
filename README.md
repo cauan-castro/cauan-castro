@@ -1,7 +1,8 @@
 ## Olá, sou Cauã Castro  
 **`Estudante de back-end e front-end`**
 
-Me chamo Cauã Castro. Sou natural do Pará. Possuo curso de informática. Amo tecnologia.
+Me chamo Cauã Castro. Sou natural do Pará. 
+Atualmente estou realizando o primeiro periodo do curso de graduação em análise e desenvolvimento de sistemas no IFPA, buscando aprimorar meus conhecimentos em front-end e back-end.
 
 
 <p align="left">
@@ -56,6 +57,14 @@ Me chamo Cauã Castro. Sou natural do Pará. Possuo curso de informática. Amo t
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" 
 />
 
 <br></br>
