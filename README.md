@@ -2,7 +2,7 @@
 **`Estudante de back-end e front-end`**
 
 Me chamo Cauã Castro. Sou natural do Pará. 
-Atualmente estou realizando o primeiro periodo do curso de graduação em análise e desenvolvimento de sistemas no IFPA, desenvolvendo aplicações web que vão desde o front-end até o back-end.
+Atualmente estou realizando o primeiro periodo do curso de graduação em análise e desenvolvimento de sistemas no IFPA, atualmente desenvolvendo aplicações web que vão desde o front-end até o back-end.
 
 
 <p align="left">
