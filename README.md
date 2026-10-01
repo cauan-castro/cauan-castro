@@ -89,3 +89,9 @@ Atualmente estou realizando o curso de graduação em análise e desenvolvimento
   />
 
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauan-castro/cauan-castro/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauan-castro/cauan-castro/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/cauan-castro/cauan-castro/pacman-output/pacman-contribution-graph.svg">
+</picture>
